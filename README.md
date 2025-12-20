@@ -1,7 +1,3 @@
-Here’s a clean, GitHub-ready **README.md** you can drop straight into your repository. It’s written to be friendly, structured, and readable for people discovering the project for the first time.
-
----
-
 # 🚀 First AI Agent: From Prompt to Action
 
 This repository contains my **first AI Agent built using Google’s Agent Development Kit (ADK)** as part of the **Kaggle 5-Day Agents Course**.
