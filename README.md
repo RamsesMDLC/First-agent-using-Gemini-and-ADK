@@ -168,5 +168,3 @@ Official documentation:
 ## 🏁 Final Note
 
 This project marks the transition from **prompting models** to **building agents that think, act, and observe**.
-
-If you’re new to agent-based AI, this is a great starting point 🚀
