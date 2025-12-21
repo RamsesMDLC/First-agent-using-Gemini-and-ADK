@@ -1,6 +1,6 @@
 # 🚀 First AI Agent: From Prompt to Action
 
-This repository contains my **first AI Agent built using Google’s Agent Development Kit (ADK)** as part of the **Kaggle 5-Day Agents Course**.
+This repository contains my **first AI Agent built using Google’s Agent Development Kit (ADK)**
 
 The project walks through the full journey from **setting up the environment**, to **authenticating with Gemini**, to **building and running an agent that can take actions** (like Google Search) instead of only returning text.
 
@@ -139,29 +139,6 @@ In this project:
 
 * A sample agent is generated using `adk create`
 * The web UI is launched inside Kaggle using a **secure proxy URL**
-
-⚠️ **Important:**
-Do **NOT** share the generated proxy link. It contains an authentication token.
-
----
-
-## 📚 Learn More
-
-Official documentation:
-
-* ADK Documentation
-* ADK Quickstart (Python)
-* ADK Agents Overview
-* ADK Tools Overview
-
----
-
-## 🎯 Next Steps
-
-* Explore **multi-agent architectures**
-* Add **custom tools**
-* Persist sessions and memory
-* Deploy agents using ADK runtime services
 
 ---
 
